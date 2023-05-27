@@ -40,14 +40,14 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser"},
-  {"desc2":"description2 ser"},
-  {"desc3":"description3 ser"},
-  {"desc4":"description4 ser"},
-  {"desc5":"description5 ser"},
-  {"desc6":"description5 ser"},
-  {"desc7":"description5 ser"},
-  {"descd":"description d ser"}
+  {"desc1":"Huawei Health APK is an application developed by Huawei Technologies Co., Ltd., a leading global provider of information and communications technology solutions"},
+  {"desc2":"It is compatible with Huawei smartphones and wearables, providing users with a seamless and integrated experience in managing their health and fitness goals."},
+  {"desc3":"One of the most notable features of Huawei Health APK is its ability to provide users with personalized health insights"},
+  {"desc4":" It offers comprehensive tracking of various health parameters, including heart rate, sleep patterns, stress levels, and even blood oxygen saturation"},
+  {"desc5":"By collecting and analyzing this data, the app generates detailed reports and recommendations to help users make informed decisions regarding their well-being."},
+  {"desc6":"Huawei Health APK serves as a virtual fitness coach, enabling users to track and monitor their exercise routines effectively"},
+  {"desc7":" It supports a wide range of activities, including walking, running, cycling, swimming, and more. The app utilizes advanced algorithms and sensors to accurately record workout data such as distance, duration, pace, calories burned, and heart rate zones"},
+  {"descd":" This information allows users to set goals, track progress, and make adjustments to their fitness routines as needed."}
    ]
  
 }
